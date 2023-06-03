@@ -8,10 +8,9 @@ The idea behind this was to create something light and 'fun' that wouldn't requi
 
 So, here are the instructions to get this up and running (it's not a lot, I promise!)
 
-1. Clone/download this repository (likely already done)
-2. Open the file named "Community_Tips_Reascript.csv" and copy the full thing to your clipboard
-3. Open Reaper, go to 'Actions' -> 'Show Actions List'.
-4. Within the Actions List, go down to 
-
-
-(Un-finished)
+1. Clone/download this repository (likely already done) and place the folder in your desired destination first of all
+2. Open Reaper, go to 'Actions' -> 'Show Actions List'
+3. Within the Actions List box, select the "New Action" button and then select "Load Reascript" 
+4. From here, select the .csv file you've recently downloaded within the "Community_Tips_Reascript-main" folder (assuming you have kept the default name) 
+5. A new window/environment should open with the script imported
+6. Find 
