@@ -11,7 +11,7 @@ end
 -- Define the function to populate text from the spreadsheet
 function populateTextFromSpreadsheet()
     -- Enter the path to your spreadsheet file
-    local spreadsheetPath = “PASTE YOUR FILE PATH HERE - KEEP QUOTATIONS”
+    local spreadsheetPath = "PASTE YOUR FILE PATH HERE - KEEP QUOTATIONS"
 
     -- Load the spreadsheet file
     local file = io.open(spreadsheetPath, "r")
