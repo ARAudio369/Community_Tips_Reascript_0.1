@@ -19,7 +19,7 @@ So, here are the instructions to get this up and running (it's not a lot, I prom
 
 3. Within the Actions List box, select the "New Action" button and then select "Load Reascript" 
 
-4. From here, select the .csv file you've recently downloaded within the "Community_Tips_Reascript-main" folder (assuming you have kept the default name)
+4. From here, select the .lua file you've recently downloaded within the "Community_Tips_Reascript-main" folder (assuming you have kept the default name)
 
 5. This will now show as the top result in the Actions list. Select it, and then select the 'Edit Action...' button
   - You will now see the Reascript Development Environment and the lua code for the script
